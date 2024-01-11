@@ -1,0 +1,14 @@
+<configuration>
+    <VSDevFilePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.com</VSDevFilePath>
+    <SlnFilePath>D:\TestProject\TestIntegrationGitLab.sln</SlnFilePath>
+    <BackupPath>D:\Backup_Release</BackupPath>
+    <RestoreFile>D:\Backup_Release\backup_11-09-2023-01-35-10\TestIntegrationGitLab.ispac</RestoreFile>
+    <Backupsource>D:\TestProject\TestIntegrationGitLab\bin\Development</Backupsource>
+    <IspacFilePath>D:\TestProject\TestIntegrationGitLab\bin\Development\TestIntegrationGitLab.ispac</IspacFilePath>
+    <InstanceName>DESKTOP-9MN031Q\DEVSQL</InstanceName>
+    <CatalogName>SSISDB</CatalogName>
+    <CatalogPassword>catalog123</CatalogPassword>
+    <CatalogFolder>GitlabTest</CatalogFolder>
+    <ProjectName>TestIntegrationGitLab</ProjectName>
+    <PackagePath>D:\TestProject\TestIntegrationGitLab\SampleB.dtsx</PackagePath>
+</configuration>
